@@ -15,13 +15,13 @@ header h1{
 }
 header h2{
     font-size: 130%
-    color:800000;
+    color: #800000;
     text-indent: 30 px;  
-    text-shadow: 2px 2px 2px rgb(128,0,0)
 }
-header h3
-{
-
+img{
+    float: left;
+    text-shadow: 2px 2px 2px rgb(128,0,0)
+  
 }
 
 footer p{
