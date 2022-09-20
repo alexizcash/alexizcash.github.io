@@ -40,8 +40,8 @@ main nav{
 #list{
     line-height: 1.5em;
 }
-footer p{
-    font-size: 80%;
+footer p.copyright{
     text-align: center;
+    font-size: 80%;
 }
 
