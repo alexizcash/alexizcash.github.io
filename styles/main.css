@@ -47,7 +47,7 @@ main h3{
     border: 5px double blue;
     box-shadow: 3px 3px 4px 4px red;
     border-radius: 20px;
-    padding: 1em 1em 1em 1em 1em;
+    padding: 1em;
 
 }
 main nav{
@@ -56,14 +56,14 @@ main nav{
     border: 5px dashed blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: 0.5em 0.5em 0.5em 0.5em 0.5em;
+    padding: 0.5em;
 }
 div.contact{
     margin: 1.5em 2em 0em 2em;
     border: 5px dotted style blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: 1em 1em 1em 1em 1em;
+    padding: 1em;
 }
 #list{
     line-height: 1.5em;
