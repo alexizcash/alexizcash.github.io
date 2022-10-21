@@ -46,7 +46,7 @@ article{
     margin-left: 2em;
 }
 article h2{
-    text-decoration: 2px 2px 2px rgb(14, 64, 158);
+    text-emphasis-color: 2px 2px 2px rgb(14, 64, 158);
 }
 article img{
     float: left;
@@ -57,7 +57,7 @@ aside{
     width: 20%;
     float: right;
     padding: 0.1em 1em 1em;
-    background-color: baby rgb(0, 157, 255);
+    background-color:rgb(0, 157, 255);
 }
 footer{
     clear: both;
