@@ -56,6 +56,7 @@ article img{
 aside{
     width: 20%;
     position: fixed right;
+    right:0;
     border: 3px solid rgb(75, 7, 248);
     padding: 0.1em 1em 1em;
     background-color:rgb(44, 160, 233);
