@@ -12,16 +12,7 @@ body{
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
-article{
-    clear: left;
-    width: 75%;
-    float: left;
-    column-count: 2;
-    column-rule: 2px dotted blue;
-    column-gap: 2em;
-    margin-left: 2em;
-}
-#nav_menu ul { list-style-type: square; }
+    #nav_menu ul { list-style-type: square; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li a {
     text-align: center;
@@ -36,4 +27,15 @@ article{
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow;  } 
+
+article{
+    clear: left;
+    width: 75%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+
 
