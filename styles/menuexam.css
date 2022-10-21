@@ -37,5 +37,10 @@ article{
     column-gap: 2em;
     margin-left: 2em;
 }
-
+aside{
+    width: 20%;
+    float: right;
+    padding: 0.1em 1em 1em;
+    background-color: baby rgb(0, 157, 255);
+}
 
