@@ -67,4 +67,12 @@ footer p.copyright{
     text-align: center;
     font-size: 80%;
 }
-
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right:0;
+    border: 3px solid rgb(75, 7, 248);
+    background-color: rgb(94, 127, 227);
+    padding: 0.1em 1em 1em;
+}
