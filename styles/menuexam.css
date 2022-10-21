@@ -33,7 +33,9 @@ a:focus, a:hover{
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow;  } 
-
+.shadow{
+    text-shadow: 2px 2px 2px rgb(0, 23, 128);
+}
 article{
     clear: left;
     width: 75%;
@@ -42,6 +44,10 @@ article{
     column-rule: 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
+}
+article h2{
+    text-shadow: 2px 2px 2px rgb(14, 64, 158);
+    
 }
 article img{
     float: left;
