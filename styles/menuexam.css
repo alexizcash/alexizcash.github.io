@@ -47,6 +47,7 @@ article{
 }
 article h2{
     text-shadow: 2px 2px 2px rgb(14, 64, 158);
+    column-span: all;
 }
 article img{
     float: left;
