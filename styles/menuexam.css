@@ -46,7 +46,7 @@ article{
     margin-left: 2em;
 }
 article h2{
-    text-shadow: 2px 2px 2px rgb(14, 64, 158);
+    text-decoration: 2px 2px 2px rgb(14, 64, 158);
 }
 article img{
     float: left;
