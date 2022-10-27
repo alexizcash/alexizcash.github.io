@@ -86,11 +86,11 @@ html, body {
     transform: rotate(-405deg);
     }
     /*----end of menu*/
-    a.section a {
+    .section a {
         text-decoration: none; 
         color: white;
     }
-    b.menu{
+    .menu{
         text-decoration: underline;
     }
     a:hover{
