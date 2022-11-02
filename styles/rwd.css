@@ -113,8 +113,8 @@ html, body {
         text-align: center;
         font-size: .8em;
     }
-    @media only screen and (max-width: 700px){}
-    .menu-button-container {
+    @media only screen and (max-width: 700px)
+    {.menu-button-container {
         display: flex;
     }
     .menu {
@@ -158,3 +158,4 @@ html, body {
     article p{
         font-size: .8em;
     } 
+}
