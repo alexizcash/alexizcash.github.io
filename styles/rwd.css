@@ -90,13 +90,7 @@ html, body {
         text-decoration: none; 
         color: white;
     }
-    .menu{
-        text-decoration: underline;
-    }
-    a:hover{
-        text-decoration: underline;
-    }
-    a.current{
+    .menu a:hover, a.current{
         text-decoration: underline;
     }
     article{
