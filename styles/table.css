@@ -19,8 +19,8 @@ html, body {
     }
     /*-----------------------------------------------------------*/
     table.second {    
-        border-collapse: collapse; 
-        border: 2px solid purple;   
+       
+        border-top: 2px solid purple;   
         caption-side: bottom;
     }
     table.second th {
