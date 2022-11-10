@@ -43,7 +43,7 @@ html, body {
     table.third th {
         background-color: rgb(98, 232, 45);
     }
-    table.second th, table.second td {
+    table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: top;
     }
