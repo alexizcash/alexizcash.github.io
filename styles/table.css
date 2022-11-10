@@ -43,4 +43,5 @@ html, body {
     table.third th {
         background-color: rgb(98, 232, 45);
     }
-    table.third thead tr:first-child { border-top: 2px solid orangered; }
+    table.third thead tr:first-child { border-top: 2px solid orangered; }
+    
