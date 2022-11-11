@@ -37,7 +37,6 @@ html, body {
      /*-----------------------------------------------------------*/
     table.third {
         border-bottom: 2px solid  orangered;   
-        border-top: 2px solid  orangered; 
         caption-side: top;
     }
     table.third th {
