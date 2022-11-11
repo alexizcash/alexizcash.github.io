@@ -44,6 +44,9 @@ html, body {
         background-color: rgb(98, 232, 45);
         border-bottom: 2px solid  orangered; 
     }
+    table.third tr {
+        
+    }
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: top;
