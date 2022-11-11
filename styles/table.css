@@ -36,8 +36,9 @@ html, body {
     }
      /*-----------------------------------------------------------*/
     table.third {
-        border-bottom: 2px solid salmon;   
-        caption-side: bottom;
+        border-bottom: 2px solid  orangered;   
+        border-top: 2px solid  orangered; 
+        caption-side: top;
     }
     table.third th {
         background-color: rgb(98, 232, 45);
