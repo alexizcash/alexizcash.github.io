@@ -45,6 +45,7 @@ html, body {
         border-bottom: 2px solid  orangered; 
     }
     caption{
+        border-top: 2px solid  orangered;  
         background-color: rgb(98, 232, 45);
     }
     table.third th, table.third td {
