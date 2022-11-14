@@ -47,14 +47,11 @@ html, body {
     caption{
         background-color: rgb(98, 232, 45);
     }
-    table.third tr {
-        background-color: rgb(98, 232, 45);
-    }
     table.third th, table.third td {
         padding: 0.7em;  
         vertical-align: top;
     }
-    table.third thead tr:first-child { border-top: 2px solid orangered; border-bottom: 2px solid orangered;  }
+    table.third thead tr:first-child { border-top: 2px solid orangered; border-bottom: 2px solid orangered;  background-color: rgb(98, 232, 45); }
     
     @media only screen and (max-width: 425px) {
         th, td {
