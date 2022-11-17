@@ -62,3 +62,18 @@
         title="Either 1 or 2 digits"
         autocomplete="on"><br>
 </fieldset>
+<fieldset>
+    <legend>How Did You Hear About Us</legend>
+    <label for="search_engine">Search Engine</label>
+    <input type="checkbox" name="search_engine" id="search_engine"
+        required autocomplete="on"><br>        
+    <label for="social_media">Social Media</label>
+    <input type="checkbox" name="social_media" id="social_media" required 
+        autocomplete="on"><br>
+    <label for="tickets_for_guests">Tickets for Guests:</label>
+    <input type="text" name="tickets_for_guests" id="tickets_for_guests" required
+        placeholder="2 digits" 
+        pattern="^\d{5}(-\d{4})?$"
+        title="Either 1 or 2 digits"
+        autocomplete="on"><br>
+</fieldset>
