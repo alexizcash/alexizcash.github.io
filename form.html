@@ -45,3 +45,20 @@
         title="Must be 999-999-999 format"
         autocomplete="on"><br>
 </fieldset>
+<fieldset>
+    <legend>Member Information</legend>
+    <label for="membership_type">Membership Type:</label>
+    <input type="text" name="membership_type" id="membership_type"
+        required autocomplete="on"><br>        
+    <label for="starting_date">Starting Date:</label>
+    <input type="text" name="starting_date" id="starting_date" required 
+        maxlength="8" 
+        placeholder="mm/dd/yyyy"
+        autocomplete="on"><br>
+    <label for="tickets_for_guests">Tickets for Guests:</label>
+    <input type="text" name="tickets_for_guests" id="tickets_for_guests" required
+        placeholder="2 digits" 
+        pattern="^\d{5}(-\d{4})?$"
+        title="Either 1 or 2 digits"
+        autocomplete="on"><br>
+</fieldset>
