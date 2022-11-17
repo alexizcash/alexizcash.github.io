@@ -40,13 +40,9 @@ html, body {
         border-top: 2px solid  orangered;    
         caption-side: top;
     }
-    table.third th {
+    table.third thead {
         background-color: rgb(98, 232, 45);
         border-bottom: 2px solid  orangered; 
-    }
-    caption{
-        border-top: 2px solid  orangered;  
-        background-color: rgb(98, 232, 45);
     }
     table.third th, table.third td {
         padding: 0.7em;  
