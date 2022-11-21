@@ -40,9 +40,6 @@ html, body {
         border-top: 2px solid  orangered;    
         caption-side: top;
     }
-    caption{
-        border-bottom: 2px solid  orangered;
-    }
     table.third thead {
         background-color: rgb(98, 232, 45);
         border-bottom: 2px solid  orangered; 
