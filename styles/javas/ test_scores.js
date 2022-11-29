@@ -17,12 +17,3 @@ const html1 = `<p>Score 1 = ${score1}</p>
               <p>Average score = ${average}</p>`;
 document.write(html1);
 
-<script>
-        const miles = parseInt(prompt("Enter miles driven"));
-        const gallons = parseInt(prompt("Enter gallons of gas used"));
-        const mpg = parseFloat(miles/gallons);
-        const html2 = `<p>Miles: ${miles}</p>
-                        <p>Gallons: ${gallons}</p>
-                        <p>MPG: ${mpg.toFixed(2)}</p>`;
-        document.write(html2);
-</script>    
